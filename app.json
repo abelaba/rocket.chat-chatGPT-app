@@ -1,0 +1,16 @@
+{
+    "id": "56ab1355-e1c2-4556-91bb-d907c627f8b2",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Abel Abate",
+        "homepage": "abel",
+        "support": "Abel"
+    },
+    "name": "ChatGPT Summarize App",
+    "nameSlug": "chatgpt-summarize-app",
+    "classFile": "ChatGptSummarizeAppApp.ts",
+    "description": "Summarizes conversation",
+    "implements": []
+}
