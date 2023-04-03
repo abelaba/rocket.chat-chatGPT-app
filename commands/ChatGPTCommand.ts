@@ -170,7 +170,7 @@ export class ChatGPTCommand implements ISlashCommand {
     
     public async summarizeText(read: IRead, http: IHttp, message: string): Promise<string>{
 
-        const API_KEY = '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';
+        const API_KEY = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
         
 
         var headers = {
